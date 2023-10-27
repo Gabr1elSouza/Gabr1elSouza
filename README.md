@@ -7,7 +7,7 @@
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Gabriel-node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Gabriel-react" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Gabriel-next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" />
+  <img align="center" alt="Gabriel-next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   </div>
   <br>
   <div>
